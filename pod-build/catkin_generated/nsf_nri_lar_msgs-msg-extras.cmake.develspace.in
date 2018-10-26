@@ -1,0 +1,2 @@
+set(nsf_nri_lar_msgs_MESSAGE_FILES "/code/software/ros_workspace/semantic_planning_msgs/msg/SceneClassification.msg;/code/software/ros_workspace/semantic_planning_msgs/msg/ObjectDetection.msg;/code/software/ros_workspace/semantic_planning_msgs/msg/ObjectDetectionsList.msg")
+set(nsf_nri_lar_msgs_SERVICE_FILES "")

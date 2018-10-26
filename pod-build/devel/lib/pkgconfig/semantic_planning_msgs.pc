@@ -1,0 +1,8 @@
+prefix=/code/software/ros_workspace/semantic_planning_msgs/pod-build/devel
+
+Name: semantic_planning_msgs
+Description: Description of semantic_planning_msgs
+Version: 0.0.0
+Cflags: -I/code/software/ros_workspace/semantic_planning_msgs/pod-build/devel/include
+Libs: -L/code/software/ros_workspace/semantic_planning_msgs/pod-build/devel/lib 
+Requires: message_runtime roscpp std_msgs geometry_msgs sensor_msgs

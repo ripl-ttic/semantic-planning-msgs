@@ -1,0 +1,8 @@
+prefix=/code/software/build
+
+Name: semantic_planning_msgs
+Description: Description of semantic_planning_msgs
+Version: 0.0.0
+Cflags: -I/code/software/build/include
+Libs: -L/code/software/build/lib 
+Requires: message_runtime roscpp std_msgs geometry_msgs sensor_msgs
