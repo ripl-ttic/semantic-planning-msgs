@@ -1,2 +1,0 @@
-set(nsf_nri_lar_msgs_MESSAGE_FILES "msg/SceneClassification.msg;msg/ObjectDetection.msg;msg/ObjectDetectionsList.msg")
-set(nsf_nri_lar_msgs_SERVICE_FILES "")
