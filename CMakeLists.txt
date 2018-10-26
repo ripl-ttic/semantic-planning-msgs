@@ -8,7 +8,6 @@ find_package(catkin REQUIRED message_generation std_msgs geometry_msgs sensor_ms
 ## Generate messages in the 'msg' folder
 add_message_files(
   FILES
-  SceneClassification.msg
   ObjectDetection.msg
   ObjectDetectionsList.msg
 )
