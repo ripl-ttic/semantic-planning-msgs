@@ -18,4 +18,4 @@ bool has_orientation
 uint8 object_class
 
 # valid object classes
-string valid_classes = []
+string[] valid_classes
