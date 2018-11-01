@@ -24,4 +24,4 @@ geometry_msgs/Vector3 bounding_box
 uint8 object_class
 
 # valid object classes
-string valid_classes = []
+string[] valid_classes
