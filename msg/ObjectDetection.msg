@@ -19,6 +19,12 @@ geometry_msgs/Quaternion orientation
 # this field is not used if `has_orientation` is False
 geometry_msgs/Vector3 bounding_box
 
+# object shape (e.g., 'box', 'sphere', 'cone', etc.)
+string shape
+
+# object color (e.g., 'red', 'yellow', etc.)
+string color
+
 # ID of the object class.
 # It is the index of the selected class in the list of valid classes below
 uint8 object_class
