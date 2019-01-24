@@ -25,9 +25,5 @@ string shape
 # object color (e.g., 'red', 'yellow', etc.)
 string color
 
-# ID of the object class.
-# It is the index of the selected class in the list of valid classes below
-uint8 object_class
-
-# valid object classes
-string[] valid_classes
+# object class string
+string object_class
